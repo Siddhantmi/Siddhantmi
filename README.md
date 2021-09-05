@@ -63,8 +63,7 @@
 
 ### Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
-
+[![Visits Badge](https://badges.pufler.dev/visits/Siddhantmi/README.md)](https://badges.pufler.dev)
 
 
 
