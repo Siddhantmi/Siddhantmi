@@ -10,7 +10,7 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantmi)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantmi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="left" src="![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantmi&show_icons=true&theme=radical)
 "/>
