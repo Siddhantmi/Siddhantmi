@@ -63,7 +63,7 @@
 
 ### Visitor count
 
-[![Visits Badge](https://badges.pufler.dev/visits/Siddhantmi/README.md)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Siddhantmi/Siddhantmi)](https://badges.pufler.dev)
 
 
 
