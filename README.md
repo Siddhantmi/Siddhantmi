@@ -58,11 +58,14 @@
 
 
 <br/>
----
-### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
 
 ---
+
+### Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
+
+
 
 
 [website]: https://siddhantmishra.netlify.com
