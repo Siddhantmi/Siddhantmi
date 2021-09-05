@@ -1,3 +1,7 @@
+![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
+
+---
+
 ### Hi there 👋
 
 
@@ -6,6 +10,7 @@
 - 🌱 I’m currently learning DSA, Reactjs
 - 👯 I’m looking to collaborate on Webdev projects, software development projects.
 - 🤔 I’m looking for help with contant writer for my website.
+
 <br/>
 
 ---
