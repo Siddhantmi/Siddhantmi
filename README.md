@@ -1,6 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
-
----
 
 ### Hi there 👋
 
@@ -61,6 +58,11 @@
 
 
 <br/>
+---
+### Visitor count
+![Visitor Count](https://profile-counter.glitch.me/{Siddhantmi}/count.svg)
+
+---
 
 
 [website]: https://siddhantmishra.netlify.com
