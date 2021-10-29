@@ -8,9 +8,7 @@
 - 👯 I’m looking to collaborate on Webdev projects, software development projects.
 - 🤔 I’m looking for help with content writer for my website.
 
-
-
-
+<br/>
 
 ### Connect with me:
 
@@ -33,6 +31,7 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br/>
+<br/>
 
 
 
@@ -52,18 +51,24 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+<br/>
+<br/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantmi)](https://github.com/Siddhantmi/github-readme-stats)
+<br/>
 <br/>
 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siddhantmi&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhantmi)](https://github.com/Siddhantmi/github-readme-stats)
 
-
+<br/>
+<br/>
 
 
 
@@ -71,8 +76,6 @@
 ### Visitor count
 
 [![Visits Badge](https://badges.pufler.dev/visits/Siddhantmi/Siddhantmi)](https://badges.pufler.dev)
-
-
 
 [website]: https://siddhantmishra.netlify.com
 [twitter]: https://twitter.com/codeSTACKr
