@@ -78,7 +78,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Siddhantmi/Siddhantmi)](https://badges.pufler.dev)
 
 [website]: https://siddhantmishra.netlify.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/@mishra_sidanT
 [facebook]:https://www.facebook.com/siddhantmishra949
 [instagram]:https://www.instagram.com/siddhant_mi/
 [linkedin]: https://www.linkedin.com/in/siddhantmishra7459/
